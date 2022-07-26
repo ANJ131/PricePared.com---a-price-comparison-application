@@ -304,7 +304,7 @@ $ans3=$xyz['total'];
                 <!-- <input type="text" placeholder="enter product category" name="product_category" class="box"> -->
                 Product Category:
                 <select name='product_category'>
-                  <option selected disabled>--- Select ---</option>
+                  <!-- <option selected disabled>--- Select ---</option> -->
                   <?php
                     $selectcat=mysqli_query($con,"select * from onlycategory");
                     // $select="onlycategory";  

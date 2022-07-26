@@ -57,7 +57,7 @@ if(isset($_POST['add_to_cart'])){
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="customer_stores.css">
     <!-- <link rel="stylesheet" href="css/style.css"> -->
-    <title>PricePAred.com Shopping</title>
+    <title>PricePared.com Shopping</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- <link rel="stylesheet" href="css/cart_style.css"> -->
 <style>

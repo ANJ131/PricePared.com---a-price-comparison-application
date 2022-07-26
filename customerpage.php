@@ -18,7 +18,7 @@ if($email != false && $password != false){
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to PricePared.com/customer page</title>
+    <title>Welcome to PricePared.com</title>
     <link rel="stylesheet" href="updatemanager.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" charset="utf-8"></script>
@@ -133,6 +133,7 @@ h1{
           <!-- <li class="menu-item"><a href="">Products</a></li> -->
           <!-- <li class="menu-item"><a href="navtrial2.html">About</a></li> -->
           <li class="menu-item"> <a href="order.php">My Orders</a></li>
+          <li class="menu-item"> <a href="customer_analytics.php">Analytics</a></li>
           <li class="menu-item"><a href="c_profile.php">Profile</a></li>
           <li class="menu-item"><a href="login-user.php">Logout</a></li>
         </ul>

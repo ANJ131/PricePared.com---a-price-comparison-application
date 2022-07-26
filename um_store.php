@@ -19,7 +19,7 @@ if($email != false && $password != false){
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Responsive Header Navigation Menu With Dropdowns</title>
+    <title>Stores</title>
     <link rel="stylesheet" href="updatemanager.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->

@@ -45,7 +45,7 @@ $ans3=$xyz['total'];
 
     <script src="ChartJS.min.js"></script>
     <link rel="stylesheet" href="chart.css">
-    <title> Bar graph</title>
+    <title>Analytics</title>
 
 <style>
 
